@@ -19,33 +19,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Série: Ecos do Amanhã - Tema de Abertura: Neon Noir 🎵📺
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste na criação da identidade visual, sinopse e música tema de abertura para uma série fictícia de mistério e ficção científica que se passa nos anos 2000.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Gemini:** Para a criação da sinopse da série e escrita da letra da música de abertura.
+- **Suno AI:** Para a geração e composição da faixa musical (instrumentos e vozes).
+- **Gemini:** Para a geração artística do pôster oficial da série.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Utilizei o Gemini para idealizar uma série sobre viagens no tempo através de frequências de rádio e escrever uma letra nostálgica.
+2. Levei a letra ao Suno AI, selecionando o estilo "2000 synthwave electro-pop" para criar a música de abertura.
+3. No Gemini, refinei um prompt visual para criar o pôster oficial condizente com a atmosfera misteriosa do projeto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- [Link para a música no Suno AI](https://suno.com/s/72ng04Y3JPdlDINz)
+- Pôster da série:
+  ![Pôster da Série](https://share.gemini.google/bU0u2WvotnUY)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar este projeto mostrou como as IAs Generativas facilitam a materialização rápida de conceitos abstratos. O áudio do Suno AI ficou surpreendentemente "natty" (natural), embora a imagem gerada precise de alguns ajustes finos nos detalhes das mãos dos personagens para não parecer tão artificial.
